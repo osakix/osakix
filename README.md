@@ -20,7 +20,6 @@
 ## 🚀 Tech Stack
 
 <p>
-  <!-- Mainstream Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
@@ -34,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" height="30" alt="Objective-C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="Go" />
-  <img src="https://cdn.simpleicons.org/rust/white" height="30" alt="Rust" />
+  <img src="https://static.cdnlogo.com/logos/r/88/rust.svg" height="30" alt="Rust" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="MATLAB" />
@@ -49,30 +48,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
-</p><p>
-  <!-- Placeholder/Custom Icons -->
   <img src="https://cdn.simpleicons.org/assemblyscript/white" height="30" alt="Assembly" />
-  <img src="https://cdn.simpleicons.org/fortran/white" height="30" alt="Fortran" />
-  <img src="https://cdn.simpleicons.org/pascal/white" height="30" alt="Pascal" />
-  <img src="https://cdn.simpleicons.org/visualbasic/white" height="30" alt="Visual Basic" />
-  <img src="https://cdn.simpleicons.org/groovy/white" height="30" alt="Groovy" />
-  <img src="https://cdn.simpleicons.org/elixir/white" height="30" alt="Elixir" />
-  <img src="https://cdn.simpleicons.org/erlang/white" height="30" alt="Erlang" />
-  <img src="https://cdn.simpleicons.org/fsharp/white" height="30" alt="F#" />
-  <img src="https://cdn.simpleicons.org/ocaml/white" height="30" alt="OCaml" />
-  <img src="https://cdn.simpleicons.org/lisp/white" height="30" alt="Lisp" />
-  <img src="https://cdn.simpleicons.org/scheme/white" height="30" alt="Scheme" />
-  <img src="https://cdn.simpleicons.org/prolog/white" height="30" alt="Prolog" />
-  <img src="https://cdn.simpleicons.org/scratch/white" height="30" alt="Scratch" />
-  <img src="https://cdn.simpleicons.org/vhdl/white" height="30" alt="VHDL" />
-  <img src="https://cdn.simpleicons.org/verilog/white" height="30" alt="Verilog" />
-  <img src="https://cdn.simpleicons.org/cobol/white" height="30" alt="COBOL" />
-  <img src="https://cdn.simpleicons.org/rpg/white" height="30" alt="RPG" />
-  <img src="https://cdn.simpleicons.org/nim/white" height="30" alt="Nim" />
-  <img src="https://cdn.simpleicons.org/crystal/white" height="30" alt="Crystal" />
-  <img src="https://cdn.simpleicons.org/smalltalk/white" height="30" alt="Smalltalk" />
-  <img src="https://cdn.simpleicons.org/ada/white" height="30" alt="Ada" />
-  <img src="https://cdn.simpleicons.org/awk/white" height="30" alt="AWK" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" height="30" alt="Fortran" />
+  <img src="https://static.cdnlogo.com/logos/p/80/pascal.svg" height="30" alt="Pascal" />
+  <img src="https://e7.pngegg.com/pngimages/457/797/png-clipart-visual-basic-for-applications-microsoft-excel-macro-microsoft-angle-logo-thumbnail.png" height="30" alt="Visual Basic" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="30" alt="Groovy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="30" alt="Elixir" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" height="30" alt="Erlang" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="30" alt="F#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="30" alt="OCaml" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968304.png" height="30" alt="Lisp" />
+  <img src="https://raw.githubusercontent.com/cdnjs/brand/master/logo/standard/dark-512.png" height="30" alt="Scheme" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prolog/prolog-original.svg" height="30" alt="Prolog" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvBT4RHtNtFjP-4Z1l-uDbv9iITwY4JOQFdxVyGNJ75biQZ9czqfXYqowf&s=10" height="30" alt="Scratch" />
+  <img src="https://cdn.prod.website-files.com/6047a9e35e5dc54ac86ddd90/638a61921edcd6b61220a23a_XrbJ07KiqWOBrxBtkJGoAUdyjwynYp-eC0MPmL1RoQU.png" height="30" alt="VHDL" />
+  <img src="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-1024x1024-1hv3ysgx.png" height="30" alt="Verilog" />
+  <img src="https://cdn.prod.website-files.com/6047a9e35e5dc54ac86ddd90/63018724eab2481fa8f88ef4_1d1684aa.png" height="30" alt="COBOL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nim/nim-original.svg" height="30" alt="Nim" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original.svg" height="30" alt="Crystal" />
 </p>
 
 ---
