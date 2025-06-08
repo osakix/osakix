@@ -101,7 +101,7 @@ int main() {
 
 ## 🔗 Connect with Me
 
-* GitHub: [@q2z](https://github.com/oskix)
+* GitHub: [q2z](https://github.com/oskix)
 * LinkedIn: [linkedin.com/in/q2zdev](https://www.linkedin.com/in/q2zdev)
 * Twitter/X: [@q2zdev](https://x.com/q2zdev)
 * Website: [q2z.dev](https://q2z.dev)
