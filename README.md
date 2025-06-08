@@ -60,7 +60,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968304.png" height="30" alt="Lisp" />
   <img src="https://raw.githubusercontent.com/cdnjs/brand/master/logo/standard/dark-512.png" height="30" alt="Scheme" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prolog/prolog-original.svg" height="30" alt="Prolog" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvBT4RHtNtFjP-4Z1l-uDbv9iITwY4JOQFdxVyGNJ75biQZ9czqfXYqowf&s=10" height="30" alt="Scratch" />
+  <img src="https://cdn.simpleicons.org/scratch/white" height="30" alt="Scratch" />
   <img src="https://cdn.prod.website-files.com/6047a9e35e5dc54ac86ddd90/638a61921edcd6b61220a23a_XrbJ07KiqWOBrxBtkJGoAUdyjwynYp-eC0MPmL1RoQU.png" height="30" alt="VHDL" />
   <img src="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-1024x1024-1hv3ysgx.png" height="30" alt="Verilog" />
   <img src="https://cdn.prod.website-files.com/6047a9e35e5dc54ac86ddd90/63018724eab2481fa8f88ef4_1d1684aa.png" height="30" alt="COBOL" />
