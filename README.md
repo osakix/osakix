@@ -81,21 +81,27 @@
 
 ## 🎨 Code Art (Because Code is Beautiful)
 
+```js
 // Just a dev with a dream
 while(!success) {
   tryAgain();
   improve();
 }
+```
 
+```py
 def passion(dev):
     return dev.write(code) and dev.share(knowledge)
 
 passion("q2z")
+```
 
+```cpp
 #include <iostream>
 int main() {
   std::cout << "Keep building. Keep learning. 🔥" << std::endl;
 }
+```
 
 ---
 
