@@ -51,7 +51,7 @@
   <img src="https://cdn.simpleicons.org/assemblyscript/white" height="30" alt="Assembly" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" height="30" alt="Fortran" />
   <img src="https://static.cdnlogo.com/logos/p/80/pascal.svg" height="30" alt="Pascal" />
-  <img src="https://e7.pngegg.com/pngimages/457/797/png-clipart-visual-basic-for-applications-microsoft-excel-macro-microsoft-angle-logo-thumbnail.png" height="30" alt="Visual Basic" />
+  <img src="https://raw.githubusercontent.com/serkonda7/vscode-vba/b57630128a2f76a0b6aa7c245047a1a2de789bdf/images/icon.png" height="30" alt="Visual Basic" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="30" alt="Groovy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="30" alt="Elixir" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" height="30" alt="Erlang" />
