@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 * 🌟 Passionate about crafting elegant web apps, AI tools, and clean UI
-* 🔧 Currently working on: [Baccarat AI Pro](https://github.com/osakix/Vibe_All_code)
+* 🔧 Currently working on: [Vibe All code](https://github.com/osakix/Vibe_All_code)
 * 🔄 Always learning: Rust, Haskell, and Prompt Engineering
 * 📅 Open to collaboration on open-source and creative projects
 
