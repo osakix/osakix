@@ -20,6 +20,7 @@
 ## 🚀 Tech Stack
 
 <p>
+  <!-- Mainstream Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
@@ -48,28 +49,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" height="30" alt="Assembly" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" height="30" alt="Fortran" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pascal/pascal-original.svg" height="30" alt="Pascal" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vbnet/vbnet-original.svg" height="30" alt="Visual Basic" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="30" alt="Groovy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="30" alt="Elixir" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" height="30" alt="Erlang" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="30" alt="F#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="30" alt="OCaml" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lisp/lisp-original.svg" height="30" alt="Lisp" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scheme/scheme-original.svg" height="30" alt="Scheme" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prolog/prolog-original.svg" height="30" alt="Prolog" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scratch/scratch-original.svg" height="30" alt="Scratch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vhdl/vhdl-original.svg" height="30" alt="VHDL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" height="30" alt="Verilog" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cobol/cobol-original.svg" height="30" alt="COBOL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rpg/rpg-original.svg" height="30" alt="RPG" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nim/nim-original.svg" height="30" alt="Nim" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original.svg" height="30" alt="Crystal" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/smalltalk/smalltalk-original.svg" height="30" alt="Smalltalk" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ada/ada-original.svg" height="30" alt="Ada" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/awk/awk-original.svg" height="30" alt="AWK" />
+</p><p>
+  <!-- Placeholder/Custom Icons -->
+  <img src="https://cdn.simpleicons.org/assemblyscript/white" height="30" alt="Assembly" />
+  <img src="https://cdn.simpleicons.org/fortran/white" height="30" alt="Fortran" />
+  <img src="https://cdn.simpleicons.org/pascal/white" height="30" alt="Pascal" />
+  <img src="https://cdn.simpleicons.org/visualbasic/white" height="30" alt="Visual Basic" />
+  <img src="https://cdn.simpleicons.org/groovy/white" height="30" alt="Groovy" />
+  <img src="https://cdn.simpleicons.org/elixir/white" height="30" alt="Elixir" />
+  <img src="https://cdn.simpleicons.org/erlang/white" height="30" alt="Erlang" />
+  <img src="https://cdn.simpleicons.org/fsharp/white" height="30" alt="F#" />
+  <img src="https://cdn.simpleicons.org/ocaml/white" height="30" alt="OCaml" />
+  <img src="https://cdn.simpleicons.org/lisp/white" height="30" alt="Lisp" />
+  <img src="https://cdn.simpleicons.org/scheme/white" height="30" alt="Scheme" />
+  <img src="https://cdn.simpleicons.org/prolog/white" height="30" alt="Prolog" />
+  <img src="https://cdn.simpleicons.org/scratch/white" height="30" alt="Scratch" />
+  <img src="https://cdn.simpleicons.org/vhdl/white" height="30" alt="VHDL" />
+  <img src="https://cdn.simpleicons.org/verilog/white" height="30" alt="Verilog" />
+  <img src="https://cdn.simpleicons.org/cobol/white" height="30" alt="COBOL" />
+  <img src="https://cdn.simpleicons.org/rpg/white" height="30" alt="RPG" />
+  <img src="https://cdn.simpleicons.org/nim/white" height="30" alt="Nim" />
+  <img src="https://cdn.simpleicons.org/crystal/white" height="30" alt="Crystal" />
+  <img src="https://cdn.simpleicons.org/smalltalk/white" height="30" alt="Smalltalk" />
+  <img src="https://cdn.simpleicons.org/ada/white" height="30" alt="Ada" />
+  <img src="https://cdn.simpleicons.org/awk/white" height="30" alt="AWK" />
 </p>
 
 ---
