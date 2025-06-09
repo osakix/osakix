@@ -3,7 +3,7 @@
 <p align="center">
   💻 Full-stack Developer | 🎨 UI/UX Enthusiast <br>
   🧠 Code. Learn. Share. Repeat. <br>
-  📍 Tokyo, Japan &nbsp;🌐 <a href="https://q2z.dev">q2z.dev</a>
+  📍 Tokyo, Japan &nbsp;🌐 <a href="https://q2z.vercel.app/">q2z.dev</a>
 </p>
 
 ---
@@ -110,7 +110,7 @@ int main() {
 * GitHub: [@q2z](https://github.com/osakix)
 * LinkedIn: [linkedin.com/in/q2zdev](https://www.linkedin.com/in/q2zdev)
 * Twitter/X: [@q2zdev](https://x.com/q2zdev)
-* Website: [q2z.dev](https://q2z.dev)
+* Website: [q2z.dev](https://q2z.vercel.app/)
 
 ---
 
